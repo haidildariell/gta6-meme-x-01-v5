@@ -1,5 +1,9 @@
 # NOTICE TO VACATE — GTA V evicted after 13 years (gta6-meme-x-01, v5)
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/haidildariell/gta6-meme-x-01-v5/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/haidildariell/gta6-meme-x-01-v5/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 An entry for make.fun's **"Post a GTA 6 meme on X"** bounty ($500, top 50,
 deadline 23 Nov 2026 21:00 WIB). The post itself is the entry: the meme
 below, posted on X with make.fun, the bounty link and the play code in
